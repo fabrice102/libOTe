@@ -222,3 +222,8 @@ offline.txt
 Makefile
 
 [path to project]/node_modules/
+
+# CLion
+
+.idea
+*.cbp
